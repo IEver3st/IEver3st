@@ -1,13 +1,11 @@
 # Hey, I'm Ever3st! 👋
 
-## 🚗 What I Work On
-- Web Development (JavaScript, HTML, CSS)  
+## Focus Areas
+- Web Development (JS, HTML, CSS)  
 - Scripting for FiveM (Lua)  
-- Multimedia Apps (Spotify & YouTube APIs)
 
 ## 🌟 Key Projects
-- [CloudyV2]([https://github.com/Ever3st/Fluid-Multimedia-Player](https://github.com/IEver3st/CloudyV2-Releases))  
-
+- [CloudyV2 - Secure, local backups]([https://github.com/Ever3st/Fluid-Multimedia-Player](https://github.com/IEver3st/CloudyV2-Releases))  
 
 ## 📫 Connect
 - [Portfolio](https://ever3st.dev)  
