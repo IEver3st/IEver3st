@@ -1,10 +1,9 @@
-# 👋 hello! i'm ever3st! 
+# 👋 Hello! I'm Ever3st!
 
-## Focus Areas
-- Web Development (JS, HTML, CSS)
-- Full Stack Engineering
-- Scripting for FiveM - Prior Focus
-  
+My goal is to build things that save people time or meaningfully improve their experience.
 
-## 📫 Connect
-- [Portfolio](https://ever3st.dev)  
+I run **Cortex**, a Personal Project that is dedicated to my goal & facilitating my learning. Everything is developed with passion.
+
+### 📫 More about me
+
+* **Cortex:** [ever3st.dev](https://ever3st.dev)
