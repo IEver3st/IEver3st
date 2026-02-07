@@ -7,3 +7,7 @@ I run **Cortex**, a Personal Project that is dedicated to my goal & facilitating
 ### 📫 More about me
 
 * **Cortex:** [ever3st.dev](https://ever3st.dev)
+
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C41TSVBX)
