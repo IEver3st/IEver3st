@@ -8,8 +8,8 @@
 > initializing profile...
 > loading user data: Ever3st
 > philosophy: build things that save people time
-> status: actively building — Cortex ecosystem
-> school: B.S. Software Engineering @ WGU (exp. Nov 2027)
+> status: actively building — Cortex Software
+> education: B.S. Software Engineering 
 > location: cortexsoftware.net
 ```
 
@@ -45,7 +45,6 @@ B  │ SQL · Python
 $ cat ./wip/status.log
 
 [active]  cortex-mdt       — FiveM mobile data terminal, native QBX integration
-[active]  cortex-ar        — spaced repetition desktop app (SM-2 + AI card gen)
 [active]  cortex-helicam   — FLIR helicopter camera resource for FiveM
 ```
 
