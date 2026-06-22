@@ -44,8 +44,7 @@ B  │ SQL · Python
 ```bash
 $ cat ./wip/status.log
 
-[active]  cortex-mdt       — FiveM mobile data terminal, native QBX integration
-[active]  cortex-helicam   — FLIR helicopter camera resource for FiveM
+[active]  cortex-mdtsv       — FiveM mobile data terminal, native QBX integration, made in svelte 5 - not intended for public use but will be released at a later date.
 ```
 
 ---
