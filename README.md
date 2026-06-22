@@ -22,10 +22,10 @@ Everything I ship lives under **Cortex**. Open source where it counts, paid wher
 | repo | description | stack |
 |---|---|---|
 | [cortex-labs](https://github.com/IEver3st/cortex-labs) | realtime 3D livery previewer for FiveM — YFT/OBJ support | `TypeScript` `Three.js` `Tauri v2` |
+| [cortex_polcam](https://github.com/IEver3st/polcam/tree/main) FiveM Free & OSS helicopter camera system designed to be used with qbx/standalone | `CSS` `HTML` `Lua` |
 | [cortex-metagen](https://github.com/IEver3st/cortex-metagen) | vehicle metadata studio & editor for FiveM/GTAV | `TypeScript` |
 | [es_lib](https://github.com/IEver3st/es_lib) | shared Lua utility library — required by all my scripts | `Lua` |
 | [es_chat](https://github.com/IEver3st/es_chat) | FiveM chat skin for library-style visual consistency | `JavaScript` |
-| [Sentry](https://github.com/IEver3st/Sentry) | automatic backup utility — fully open source | `TypeScript` |
 
 ---
 
