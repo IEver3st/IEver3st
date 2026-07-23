@@ -67,16 +67,6 @@ specialised utilities          ── software for problems broad tools overlook
 
 ---
 
-## GitHub activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IEver3st\&show_icons=true\&theme=github_dark\&hide_border=true\&bg_color=0D1117\&title_color=58A6FF\&icon_color=58A6FF\&text_color=C9D1D9)
-
-</div>
-
----
-
 ## FiveM / GTA V ecosystem
 
 Cortex Studio is featured above because it has grown into a full desktop development environment. The supporting FiveM ecosystem remains public and modular:
