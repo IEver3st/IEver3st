@@ -4,7 +4,6 @@
 
 **I build practical software that removes friction from repetitive work.**
 
-[![Website](https://img.shields.io/badge/cortexsoftware.net-0D1117?style=flat-square\&logo=googlechrome\&logoColor=58A6FF)](https://cortexsoftware.net)
 [![GitHub followers](https://img.shields.io/github/followers/IEver3st?style=flat-square\&logo=github\&label=followers\&color=238636)](https://github.com/IEver3st?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=IEver3st\&style=flat-square\&color=1F6FEB\&label=profile+views)](https://github.com/IEver3st)
 
