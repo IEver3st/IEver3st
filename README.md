@@ -15,7 +15,7 @@
 
 ## About
 
-I am a software engineering student and the developer behind **[Cortex Software](https://cortexsoftware.net)**. My work spans privacy-first desktop applications, static analysis, real-time 3D tooling, safe file operations, remote infrastructure, and game-development utilities.
+I am a software engineering student and the developer behind **[Cortex Software](https://frommeans.com/cortex)**. My work spans privacy-first desktop applications, static analysis, real-time 3D tooling, safe file operations, remote infrastructure, and game-development utilities.
 
 Most of my projects begin with a nuisance I encounter personally and end as a tool other people can use.
 
